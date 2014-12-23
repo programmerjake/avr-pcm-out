@@ -1,0 +1,8 @@
+*.depend
+*.layout
+obj
+bin
+*.hex
+out.*
+*~
+avr-pcm-out
